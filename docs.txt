@@ -1,1 +1,2 @@
 this is the text file 
+this in the new branch feature 2
